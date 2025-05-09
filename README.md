@@ -9,4 +9,5 @@ En este espacion encontrara los link en donde se encuentran los modelos entidad-
 
 ![Diagrama de Tienda de Discos](https://github.com/vivinaCordova/DIAGRAMAS_BASE_DE_DATOS/blob/main/Diagrama%20Tienda%20de%20Discos.jpg)
 
-![Diagrama de Biblioteca](https://github.com/vivinaCordova/DIAGRAMAS_BASE_DE_DATOS/blob/main/Diagrama%20Biblioteca.pdf)
+[Ver Diagrama de Biblioteca](https://github.com/vivinaCordova/DIAGRAMAS_BASE_DE_DATOS/blob/main/Diagrama%20Biblioteca.pdf)
+
