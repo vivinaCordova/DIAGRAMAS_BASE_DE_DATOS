@@ -33,4 +33,10 @@ En este espacio podra acceder a los diagramas generados como APES de la unidad I
 
 [Ver APE Agencia de Viajes](https://github.com/vivinaCordova/DIAGRAMAS_BASE_DE_DATOS/blob/main/APE.....jpg)
 
+[Ver APE Algebra relacional Banco](https://github.com/vivinaCordova/DIAGRAMAS_BASE_DE_DATOS/blob/main/APE_Cordova_Viviana.pdf)
+
+[Ver APE Algebra relacional y SQL](https://github.com/vivinaCordova/DIAGRAMAS_BASE_DE_DATOS/blob/main/APE_%20viviana%20C%C3%B3rdova.pdf)
+
+
+
 
